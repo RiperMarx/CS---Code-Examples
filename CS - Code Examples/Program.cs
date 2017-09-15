@@ -97,7 +97,7 @@ namespace CS___Code_Examples
 
         public Adult(string lastName, string firstName) : base(lastName, firstName)
         {
-
+            
         }
 
         static Adult()
